@@ -144,6 +144,15 @@ let EDSData = {
             'Hougang Ave 10'
         ],
     },
+    120: {
+        1: [
+            'Jalan Bukit Merah',
+            'Telok Blangah Hts',
+            'Telok Blangah Rd',
+            'Alexandra Rd',
+            'Tiong  Rd'
+        ],
+    },
     123: {
         1: [
             'Bukit Purmei Ave',
