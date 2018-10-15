@@ -86,6 +86,22 @@ let EDSData = {
             'Orchard Rd'
         ]
     },
+    88: {
+        1: [
+            'Pasir Ris Dr 3',
+            'Punggol Rd',
+            'Hougang Ave 8',
+            'Ang Mo Kio Ave 5',
+            'Bishan St 22',
+            'Lor 4 Toa Payoh'
+        ],
+        //2: [
+         //   '',
+         //   '',
+         //   '',
+        //    ''
+      //  ]
+    },
     89:  {
        2: [
            'Hougang Ave 10',
