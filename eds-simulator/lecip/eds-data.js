@@ -499,20 +499,21 @@ let EDSData = {
     },
     124: {
         1: [
-            'New Bridge Rd',
-            'Kampong Bahru Rd',
-            'Telok Blangah Hts',
-            'Moulmein Rd',
-            'Orchard Rd'
-        ],
-        2:  [
             'Telok Blangah Hts',
             'Telok Blangah Way',
+            'Kampong Bahru Rd',
+            'New Bridge Rd',
             'Eu Tong Sen St',
             'Orchard Turn',
+            'Moulmein Rd'
+        ],
+        2:  [
             'Moulmein Rd',
-            'Telok Blangah Way',
+            'Orchard Rd',
+            'New Bridge Rd',
             'Kampong Bahru Rd',
+            'Telok Blangah Way',
+            'Telok Blangah Hts'
         ],
     },
     127: {
